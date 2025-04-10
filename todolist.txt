@@ -1,0 +1,14 @@
+~Deploy~
+1. прибрати тестовий канал в усіх згадуваннях (Логи рейдів, Зміна інвайту в тулсах) 
+2. Пункт 5
+3. counters
+
+1. create raid ~Done~
+2. raid blocks ~Done~
+3. manage created channels ~Done~
+4. warn system and warn log ~Done~
+5. join/leave voice
+
+6. help cmd
+
+7. Private voice system (Masson example)
