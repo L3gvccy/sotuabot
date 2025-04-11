@@ -14,7 +14,7 @@ module.exports = {
 
         const embed = new EmbedBuilder()
         .setColor('#17E79B')
-        .setTitle('Пошук Екіпажа')
+        .setTitle('Пошук Екіпажу')
         .setDescription(`Вітаємо всіх у нашій системі для пошуку команд!
         Ми вирішили зробити систему простішою та водночас цікавішою.
         
