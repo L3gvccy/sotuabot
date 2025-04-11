@@ -76,7 +76,7 @@ module.exports = {
 
                 const e_embed = new EmbedBuilder()
                 .setColor(cfg.color.blue)
-                .setTitle('Пошук Екіпажа')
+                .setTitle('Пошук Екіпажу')
                 .setDescription('Оберіть пірата, над яким ви хочете провести операцію')
                 .setTimestamp()
                 const e_btn = new ActionRowBuilder().setComponents(
@@ -127,7 +127,7 @@ module.exports = {
             await interaction.deferReply({ephemeral: true})
 
             const embed = new EmbedBuilder()
-            .setTitle('Пошук Екіпажа!')
+            .setTitle('Пошук Екіпажу!')
             .setDescription(interaction.fields.getTextInputValue("invite-text"))
             .setColor(cfg.invclr[char[1]])
             .setThumbnail(cfg.invicon[char[1]])
